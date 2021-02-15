@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<path style="fill:#303C42;" d="M22,1H2C0.897,1,0,1.897,0,3v14c0,1.103,0.897,2,2,2h7.001c-0.022,0.799-0.175,2.077-0.745,2.677   C8.047,21.897,7.806,22,7.5,22C7.224,22,7,22.224,7,22.5S7.224,23,7.5,23h9c0.276,0,0.5-0.224,0.5-0.5S16.776,22,16.5,22   c-0.306,0-0.547-0.103-0.756-0.323c-0.57-0.6-0.723-1.877-0.745-2.677H22c1.103,0,2-0.897,2-2V3C24,1.897,23.103,1,22,1z"/>
+	<path style="fill:#5C6671;" d="M2,2h20c0.551,0,1,0.449,1,1v11H1V3C1,2.449,1.449,2,2,2z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.8952" y1="3.0033" x2="23.2639" y2="13.434">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M2,2h20c0.551,0,1,0.449,1,1v11H1V3C1,2.449,1.449,2,2,2z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="3.6466" y1="-0.0601" x2="20.3534" y2="16.6466">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_2_);" d="M2,2h20c0.551,0,1,0.449,1,1v11H1V3C1,2.449,1.449,2,2,2z"/>
+	<path style="fill:#F2F2F2;" d="M22,18H2c-0.551,0-1-0.449-1-1v-2h22v2C23,17.551,22.551,18,22,18z"/>
+	<path style="fill:#F2F2F2;" d="M14.731,22H9.269c0.604-0.926,0.721-2.259,0.736-3h3.991C14.011,19.741,14.128,21.074,14.731,22z"/>
+	<circle style="fill:#303C42;" cx="12" cy="16.5" r="1"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="11.0021" y1="18.0021" x2="14.8657" y2="21.8657">
+		<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+		<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_3_);" d="M14.731,22c-0.604-0.926-0.721-2.259-0.736-3h-3.991l3,3H14.731z"/>
+	<path style="fill:#303C42;" d="M9.18,10.884C9.273,10.962,9.387,11,9.5,11c0.144,0,0.286-0.061,0.385-0.18   c0.177-0.212,0.148-0.528-0.064-0.705L7.281,8L9.82,5.884c0.212-0.177,0.241-0.492,0.064-0.705C9.707,4.968,9.393,4.939,9.18,5.116   l-3,2.5C6.066,7.711,6,7.852,6,8s0.066,0.289,0.18,0.384L9.18,10.884z"/>
+	<path style="fill:#303C42;" d="M14.116,10.82C14.215,10.939,14.357,11,14.5,11c0.113,0,0.226-0.038,0.32-0.116l3-2.5   C17.934,8.289,18,8.148,18,8s-0.066-0.289-0.18-0.384l-3-2.5c-0.213-0.177-0.527-0.148-0.705,0.064   c-0.177,0.212-0.148,0.528,0.064,0.705L16.719,8l-2.539,2.116C13.968,10.292,13.939,10.608,14.116,10.82z"/>
+	<path style="fill:#303C42;" d="M10.303,11.959C10.367,11.987,10.434,12,10.5,12c0.194,0,0.378-0.113,0.459-0.303l3-7   c0.109-0.253-0.009-0.547-0.263-0.656c-0.252-0.109-0.548,0.008-0.656,0.263l-3,7C9.932,11.557,10.049,11.851,10.303,11.959z"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-0.9529" y1="4.6002" x2="24.4625" y2="16.4516">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_4_);" d="M22,1H2C0.897,1,0,1.897,0,3v14c0,1.103,0.897,2,2,2h7.001   c-0.022,0.799-0.175,2.077-0.745,2.677C8.047,21.897,7.806,22,7.5,22C7.224,22,7,22.224,7,22.5S7.224,23,7.5,23h9   c0.276,0,0.5-0.224,0.5-0.5S16.776,22,16.5,22c-0.306,0-0.547-0.103-0.756-0.323c-0.57-0.6-0.723-1.877-0.745-2.677H22   c1.103,0,2-0.897,2-2V3C24,1.897,23.103,1,22,1z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="computer; source; code; development; develop" dc:description="computer; source; code; development; develop" dc:publisher="Iconscout" dc:date="2017-03-22" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

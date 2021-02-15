@@ -1,0 +1,22 @@
+.competences-options-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.competences-data{
+    /* color: black; */
+    flex-grow: 1;
+    width: 25%;
+    background-color: #367b7e;
+    /* border: 2px solid #2a352d; */
+    margin: 5px;
+    font-size: 12px;
+    padding: 1rem;
+    border-radius: 18px;
+    box-shadow: 5px 5px 4px 1px rgb(122 122 122 / 55%);
+}
+
+.competences-data img {
+    width: 37px;
+    height: 40px;
+}
+

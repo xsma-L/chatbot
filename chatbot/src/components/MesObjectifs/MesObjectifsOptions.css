@@ -1,0 +1,46 @@
+.learning-options-container {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+
+.learning-option-button {
+    padding: 0.5rem;
+    border-radius: 5px;
+    background: transparent;
+    border: 1px solid green;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.objectif-court-section {
+    padding: 0;
+}
+
+/* .objectif-court-el{
+    text-align: left;
+    font-size: 0.9rem;
+} */
+
+.objectif-court-el {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    text-decoration: none;
+    margin: 6px;
+    color: #1d1d1d;
+    background-color: #f1f1f1;
+    padding: 8px;
+    border-radius: 3px;
+    box-shadow: 2px 2px 4px rgba(150, 149, 149, 0.4);
+    height: 39px;
+    padding: 6px;
+    margin-bottom: 7%;
+}
+
+.objectif-court-el img {
+    height: 30px;
+    vertical-align: middle;
+}
