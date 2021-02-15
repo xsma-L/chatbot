@@ -19,8 +19,12 @@ class MessageParser {
             this.actionProvider.handleMonParcours();
         }
 
-        if (lowerCaseMessage.includes("compétences") || lowerCaseMessage.icludes("compétences") || lowerCaseMessage.includes("competence") || lowerCaseMessage.includes("competences")) {
+        if (lowerCaseMessage.includes("compétences") || lowerCaseMessage.includes("compétences") || lowerCaseMessage.includes("competence") || lowerCaseMessage.includes("competences")) {
             this.actionProvider.handleMesCompetences();
+        }
+
+        if (lowerCaseMessage.includes("objectif") || lowerCaseMessage.includes("objectifs")) {
+            this.actionProvider.handleMesObjectifsCourt();
         }
     }
 }

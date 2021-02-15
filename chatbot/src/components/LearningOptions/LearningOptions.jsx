@@ -24,7 +24,7 @@ const LearningOptions = (props) => {
 
         {
             text: "Mes objectifs",
-            handler: props.actionProvider.handleMesObjectifs,
+            handler: props.actionProvider.handleMesObjectifsCourt,
             id: 4
         },
 
